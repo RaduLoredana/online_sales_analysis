@@ -1,0 +1,1 @@
+#Proiect pentru gestionarea mag.
