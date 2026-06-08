@@ -7,9 +7,9 @@ manager = ProductManager()
 
 
 #Schimbam denumirile si cantitatile produselor initiale
-p1 = Product("Laptop Gaming Pro", 5500)
-p2 = Product("Smartphone Ultra", 3500)
-p3 = Product("Casti Noise Cancelling", 450)
+p1 = Product("Laptop Gaming Pro", 5500, 5)
+p2 = Product("Smartphone Ultra", 3500, 10)
+p3 = Product("Casti Noise Cancelling", 450, 20)
 
 # Setam noile cantitati
 p1.quantity = 2
